@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.jaimecamachodev.unityfolders": "2.1.0",
+    "com.jaimecamachodev.unityfolders": "2.2.0",
     "com.unity.render-pipelines.universal": "17.0.4"
   },
   "scopedRegistries": [
